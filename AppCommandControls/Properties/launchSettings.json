@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AppCommandControls": {
+      "commandName": "Project",
+      "commandLineArgs": "MEDIA_PLAY_PAUSE MEDIA_PLAY_PAUSE"
+    }
+  }
+}
